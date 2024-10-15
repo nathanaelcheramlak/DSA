@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1728991214 source:n:\c++\algorithms\main.cpp
+	<iostream>
+	"searching.h"
+	"sorting.h"
+	<vector>
+	<sstream>
+	<bits/stdc++.h>
+	<algorithm>
+	<unordered_map>
+
+1728991206 n:\c++\algorithms\searching.h
+	<vector>
+
+1728982633 n:\c++\algorithms\sorting.h
+	<vector>
+
+1728991247 source:n:\c++\algorithms\searching.cpp
+	"searching.h"
+
+1728983221 source:n:\c++\algorithms\sorting.cpp
+	"sorting.h"
+
